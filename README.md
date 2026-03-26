@@ -1,6 +1,6 @@
-# 📘 Math Mentor – Math Tuition Website
+# 📘 CS Mentor – CS Tuition Website
 
-Math Mentor is a modern and responsive Math Tuition Website built using Tailwind CSS.
+CS Mentor is a modern and responsive computer science tuition website built using Tailwind CSS.
 
 ---
 
@@ -29,6 +29,7 @@ Math Mentor is a modern and responsive Math Tuition Website built using Tailwind
 
 ## 🛠️ Tech Stack
 
+- Vite – Frontend build tool for fast development
 - HTML5 – Structured the webpage content and layout
 - Tailwind CSS – Utility-first CSS framework for building responsive and modern UI
 
