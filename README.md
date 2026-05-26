@@ -9,3 +9,11 @@ CS Mentor is a modern and responsive computer science tuition website built usin
 🌐 [Visit the Live Site]()
 
 ---
+
+## 📸 Screenshots
+
+![Screenshot]()
+
+![Screenshot]()
+
+---
