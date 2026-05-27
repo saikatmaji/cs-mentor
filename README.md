@@ -57,3 +57,9 @@ Saikat Maji
 - Share on social media
 
 ---
+
+## 🧾 License
+
+This project is for educational purposes only.  
+
+---
