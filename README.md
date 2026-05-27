@@ -26,3 +26,11 @@ CS Mentor is a modern and responsive computer science tuition website built usin
 - 💬 Quick Contact Options – Easy access to contact via phone or mail.
 
 ---
+
+## 🛠️ Tech Stack
+
+- Vite – Frontend build tool for fast development
+- HTML5 – Structured the webpage content and layout
+- Tailwind CSS – Utility-first CSS framework for building responsive and modern UI
+
+---
