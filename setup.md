@@ -51,3 +51,11 @@ export default defineConfig({
   ],
 })
 ```
+
+## Step 7: Import Tailwind CSS
+
+- Add an @import to your CSS file that imports Tailwind CSS.
+
+```
+@import "tailwindcss";
+```
