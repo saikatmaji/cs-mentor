@@ -59,3 +59,9 @@ export default defineConfig({
 ```
 @import "tailwindcss";
 ```
+
+## Step 8: Start your build process
+
+```
+npm run dev
+```
