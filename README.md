@@ -6,7 +6,7 @@ CS Mentor is a modern and responsive computer science tuition website built usin
 
 ## 🚀 Live Demo
 
-🌐 [Visit the Live Site]()
+🌐 [Visit CS Mentor]()
 
 ---
 
@@ -51,15 +51,15 @@ Saikat Maji
 
 ## ⭐ Show Your Support!
 
-- Star this repo
-- Fork it
-- Contribute
+- Star this repository
+- Fork the repository
+- Contribute to the project
 - Share on social media
 
 ---
 
 ## 🧾 License
 
-This project is for educational purposes only.  
+This project is created for educational and portfolio purposes. 
 
 ---
