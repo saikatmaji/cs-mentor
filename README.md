@@ -22,6 +22,7 @@ CS Mentor is a modern and responsive computer science tuition website built usin
 
 - 📱 Mobile-First Experience – Optimized for students who mostly use phones.
 - 👨‍🏫 Tutor Introduction Section – Clear presentation of teacher details and experience.
+- 📚 Course Information – Provides clear information about computer science tuition and learning.
 - 📍 Local Tuition Targeting – Designed for nearby students/parents.
 - 💬 Quick Contact Options – Easy access to contact via phone or mail.
 - 🎨 Modern UI – Clean and user-friendly interface built with Tailwind CSS.
